@@ -1,0 +1,17 @@
+.header{
+      background: tomato;
+      color: #fff;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      padding: 20px;
+      text-align: center;
+}
+.header h1{
+      text-transform: capitalize;
+      /* text-decoration: dashed; */
+
+}
+
+.ss{
+      font-size: 20px;
+      font-weight: bold;
+}
